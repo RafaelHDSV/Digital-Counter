@@ -15,11 +15,10 @@ This project aims to create a digital counter with html, css and javascript
 ### Screenshot
 
 ![](images/desktop.png)
-![](images/mobile.png)
 
 ### Links
 
-- Live Site URL: https://mazzi-fiori-casamentos.netlify.app
+- Live Site URL: https://digital-counter.netlify.app
 
 ## My process
 
