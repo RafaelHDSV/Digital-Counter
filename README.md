@@ -29,3 +29,4 @@ This project aims to create a digital counter with html, css and javascript
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+- Javascript
